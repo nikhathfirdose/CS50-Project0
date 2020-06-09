@@ -32,7 +32,9 @@ a:hover {
   position: absolute;
   top: 40%;
   left: 20%;
-  color: black;
+  color: white;
+  background-color: black;
+  opacity: 0.6;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   font-weight: bolder;
   padding: 10px 10px 0px 10px;
