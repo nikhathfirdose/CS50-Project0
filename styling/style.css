@@ -9,6 +9,10 @@ body {
   border: 1px solid #808080;
   text-align: center;
   padding: 20px 30px 15px 30px;
+  background-color: #c776b5;
+}
+.col-sm:hover {
+  background-color: #f0d6d6;
 }
 a {
   color: black;
@@ -45,4 +49,10 @@ a:hover {
   margin-left: 13%;
   margin-right: 13%;
   font-weight: medium;
+}
+@media screen and (max-width: 500px) {
+  .img-container {
+    font-size: 60%;
+    position: relative;
+  }
 }
