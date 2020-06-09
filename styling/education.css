@@ -1,0 +1,30 @@
+.education-table {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 85%;
+  margin: 5%;
+  margin-left: 9%;
+}
+
+.education-table td,
+.education-table th {
+  border: 1px solid #ddd;
+  padding: 15px 5px;
+  font-size: large;
+}
+
+.education-table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.education-table tr:hover {
+  background-color: #ddd;
+}
+
+.education-table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #a02485;
+  color: white;
+}

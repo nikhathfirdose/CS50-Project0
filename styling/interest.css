@@ -1,0 +1,21 @@
+ul {
+  font-size: medium;
+  border: 1px solid grey;
+  box-shadow: 5px 10px #b6b4b4;
+  margin: 7%;
+  padding: 3%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+ul li {
+  text-decoration: none;
+  padding: 3%;
+}
+ul .interest-heading {
+  text-decoration: underline;
+}
+
+ul:hover {
+  background-color: #f0d6d6;
+}
+
+/*# sourceMappingURL=interest.css.map */
